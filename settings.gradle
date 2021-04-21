@@ -1,0 +1,3 @@
+include ':TopBarMenu'
+include ':app'
+rootProject.name = "ExampleTopBarMenu"
