@@ -76,3 +76,16 @@ class MainActivity : AppCompatActivity() ,TopBarTabbedManu.IMenuItemSelectedChan
 
     }
 }
+
+
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+
+dependencies {
+	        implementation 'com.github.amirreza1375:TopBarTabbedManu:1.0.00'
+	}
