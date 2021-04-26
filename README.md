@@ -90,5 +90,5 @@ allprojects {
 
 
 dependencies {
-	        implementation 'com.github.amirreza1375:TopBarTabbedManu:1.0.00'
+	        implementation 'com.github.amirreza1375:TopBarTabbedManu:1.0.001'
 	}
